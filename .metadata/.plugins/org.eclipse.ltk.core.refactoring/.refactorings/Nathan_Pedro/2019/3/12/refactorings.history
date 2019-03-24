@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Convert local variable &apos;exercicio_repeticao_nota.Ex_03.main().entrada&apos; in &apos;exercicio_repeticao_nota.Ex_03.main()&apos; to field&#x0D;&#x0A;- Original project: &apos;Nathan_Pedro&apos;&#x0D;&#x0A;- Original element: &apos;exercicio_repeticao_nota.Ex_03.main().entrada&apos;&#x0D;&#x0A;- Field name: &apos;entrada&apos;&#x0D;&#x0A;- Initialize field in method&#x0D;&#x0A;- Declared visibility: &apos;private&apos;&#x0D;&#x0A;- Declare field &apos;static&apos;" description="Convert local variable &apos;entrada&apos; to field" final="false" flags="2" id="org.eclipse.jdt.ui.promote.temp" initialize="1" input="/src&lt;exercicio_repeticao_nota{Ex_03.java" name="entrada" selection="141 33" stamp="1553200930671" static="true" version="1.0" visibility="2"/>
+</session>

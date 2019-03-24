@@ -1,0 +1,20 @@
+package exercicios;
+
+import java.util.Scanner;
+
+public class Ex_12 {
+	public static void main(String[] args) {
+		Scanner entrada = new Scanner (System.in);
+		System.out.println("Digite um número:");
+		int num =  entrada.nextInt();
+		int fat = num;
+		int i = 0;
+		for(i = 0; i <= num; i++) {
+			num--;
+			fat = fat * num;
+		}
+		System.out.printf("O fatorial de %d é: %d", i, fat);
+		entrada.close();
+	}
+
+}
