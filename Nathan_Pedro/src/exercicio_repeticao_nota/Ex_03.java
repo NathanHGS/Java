@@ -14,6 +14,6 @@ public class Ex_03 {
 			}
 		}
 		System.out.println("A soma dos números divisiveis por 5 é: " + soma);
-		entrada.nextLine();
+		entrada.close();
 	}
 }
